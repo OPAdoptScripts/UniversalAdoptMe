@@ -1,7 +1,7 @@
 if game.PlaceId == 142823291 then -- mm2
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/KYxKt1b2ZU/0"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/11ZzrEgh1g/0"))()
 elseif game.PlaceId == 96342491571673 or game.PlaceId == 109983668079237 then -- sab
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/3CswcfV6pY/0"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/MAo6ZKHmrj/0"))()
 elseif game.PlaceId == 920587237 or game.PlaceId == 132388544979740 then -- adm
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/YhSAoOlco8/0"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/5ratvsgQ1j/0"))()
 end
